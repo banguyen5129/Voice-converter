@@ -5,7 +5,7 @@ import tkinter.filedialog as tkFileDialog
 import tkinter as ttk
 
 def startSpeaking():
-    HOST = '192.168.1.16'
+    HOST = '192.168.1.1'
 #    HOST = 'localhost'
     PORT = 50007
 
