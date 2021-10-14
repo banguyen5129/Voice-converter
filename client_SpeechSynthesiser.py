@@ -172,7 +172,7 @@ if __name__ == '__main__':
         print("Created the embedding")
         
         #connect to localhost
-        HOST = '192.168.1.16'
+        HOST = '192.168.1.1'
         # HOST = 'localhost'
         PORT = 50007
         s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
